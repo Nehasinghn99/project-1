@@ -1,0 +1,71 @@
+
+
+form{
+    display: flex;
+    justify-content: center;
+    height: 50rem;
+    background-image: linear-gradient(rgb(150, 68, 226), rgb(52, 52, 176));
+  }
+  
+  .container {
+    margin-top: 6rem;
+    background-color: rgba(55, 17, 117, 0.75);
+    color: white;
+    margin-left: 100px;
+    width: 300px;
+    height: 370px;
+    border-radius: 5px;
+  }
+  
+  .header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    background-color: rgba(36, 36, 118, 0.5);
+    border-radius: 5px;
+    font-size: 20px;
+  }
+  
+  .containerlist{
+    display: grid;  
+    justify-items: center;
+    margin-top: 1rem;
+  }
+  
+  .containerlist input{
+    width: 250px;
+    height: 25px;
+    margin-bottom: 1rem;
+  }
+  
+  .genderlist{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    color: white;
+    
+  }
+  
+  .langauagelist{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-top: 1rem;
+  }
+  
+  .btn{
+    margin-left: 7rem;
+    margin-top: 1rem;
+    border: none;
+    background-color: rgb(8, 188, 8);
+    border-radius: 6px;
+    padding: 4px;
+   }
+  
+  
+  
+  
+  
